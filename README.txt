@@ -13,6 +13,6 @@ How to use:
 python bot.py /[m/l/c] [(tag) or (user) or (photoURL)]
 
 Examples:
-	python bot.py /m e46 (like to #e46 photos)
-	python bot.py /l fullblvck46 (like user photos)
-	python bot.py /c https://www.instagram.com/p/fsdhinaif (spam comments with users in spam.txt to a photo)
+	python bot.py /m e46                                             ->  (like to #e46 photos)
+	python bot.py /l fullblvck46                                     ->  (like user photos)
+	python bot.py /c https://www.instagram.com/p/fsdhinaif           ->  (spam comments with users in spam.txt to a photo)
